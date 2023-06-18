@@ -86,7 +86,13 @@ body{
     color:red;
     cursor: pointer;
 }
+.temp{
+    display:none;
+}
+.list{
+  font-style: italic;
 
+}
 
 @keyframes animatemodal {
     from{
